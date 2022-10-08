@@ -49,16 +49,16 @@ Menú sucursal
 Ahora tienes dos sucursales, mainy readme-edits. En este momento, se ven exactamente iguales. A continuación, agregará cambios a la nueva rama.
 
 ## Glosario de contenidos
-1. commit: Un commit se puede entender como la confirmación de una modificación individual en un archivo (o serie de archivos). 
+1. **commit**: Un commit se puede entender como la confirmación de una modificación individual en un archivo (o serie de archivos). 
 
-2. push: Literalmente, empujar. Se refiere a enviar tus cambios confirmados (tus commits) a un repositorio remoto, como por ejemplo un repositorio alojado en GitHub.
+2. **push**: Literalmente, empujar. Se refiere a enviar tus cambios confirmados (tus commits) a un repositorio remoto, como por ejemplo un repositorio alojado en GitHub.
 
-3. pull: Literalmente, tirar. Se refiere a traer los cambios del servidor remoto y combinarlos con tu copia local. 
+3. **pull**: Literalmente, tirar. Se refiere a traer los cambios del servidor remoto y combinarlos con tu copia local. 
 
-4. clone: Un clon es la copia de un repositorio que se aloja en tu ordenador, en lugar de en un servidor en alguna parte, o el acto de realizar esa copia.
+4. **clone**: Un clon es la copia de un repositorio que se aloja en tu ordenador, en lugar de en un servidor en alguna parte, o el acto de realizar esa copia.
 
-5. remote: La versión remota es una versión de algo que está alojada en un servidor, muy probablemente GitHub en este contexto.
+5. **remote**: La versión remota es una versión de algo que está alojada en un servidor, muy probablemente GitHub en este contexto.
 
-6. merge: Literalmente, combinar. Hacer merge toma los cambios de un branch (en el mismo repositorio o también desde un fork), y los aplica en otro.
+6. **merge**: Literalmente, combinar. Hacer merge toma los cambios de un branch (en el mismo repositorio o también desde un fork), y los aplica en otro.
 
-7. issue: Los issues son sugerencias de mejora, tareas o cuestiones relacionadas con el repositorio o el proyecto.
+7. **issue**: Los issues son sugerencias de mejora, tareas o cuestiones relacionadas con el repositorio o el proyecto.
